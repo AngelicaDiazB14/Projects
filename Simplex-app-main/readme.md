@@ -1,0 +1,4 @@
+This project implements the Simplex algorithm to solve linear programming problems, allowing the user to input an objective function with its constraints. The program can solve both maximization and minimization problems with any number of variables and constraints. It handles various edge cases, such as issues with entering or leaving variables, multiple solutions, infeasibility, and unbounded problems. The user can choose between the two-phase method or the Big M method. 
+
+Instructions to compile: 
+To run the project, navigate to the "Simplex_app_main" folder and execute the "proyectoSimplex.py" file.
