@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1665480394 source:c:\users\monge\onedrive - estudiantes itcr\segundo semestre\ed\proyecto1\main.cpp
+	<iostream>
+
+1665480068 source:c:\users\monge\onedrive - estudiantes itcr\segundo semestre\ed\proyecto1\src\area.cpp
+	"Area.h"
+
+1665480147 c:\users\monge\onedrive - estudiantes itcr\segundo semestre\ed\proyecto1\include\area.h
+
+1665545613 source:c:\users\evoo\downloads\proyecto1\main.cpp
+	<iostream>
+	"tiquete.h"
+	<ctime>
+	<time.h>
+
+1665544416 c:\users\evoo\downloads\proyecto1\include\tiquete.h
+	<iostream>
+	<string>
+	<ctime>
+	<time.h>
+
+1665866311 source:c:\users\evoo\onedrive - estudiantes itcr\escritorio\estructuras de datos\proyecto1\main.cpp
+	<iostream>
+	"Area.h"
+	<ctime>
+	<time.h>
+	"lista_Areas.h"
+	"lista_Servicios.h"
+
+1665866193 c:\users\evoo\onedrive - estudiantes itcr\escritorio\estructuras de datos\proyecto1\include\area.h
+	"LinkedList.h"
+	"LinkedQueue.h"
+	"ventanilla.h"
+	"tiquete.h"
+	"lista_Servicios.h"
+	<iostream>
+	<string>
+	<ctime>
+	<time.h>
+	<stdexcept>
+
+1665633120 c:\users\evoo\onedrive - estudiantes itcr\escritorio\estructuras de datos\proyecto1\include\linkedlist.h
+	"List.h"
+	"Node.h"
+	<stdexcept>
+	<iostream>
+
+1665620289 c:\users\evoo\onedrive - estudiantes itcr\escritorio\estructuras de datos\proyecto1\include\list.h
+
+1661356914 c:\users\evoo\onedrive - estudiantes itcr\escritorio\estructuras de datos\proyecto1\include\node.h
+
+1665769773 c:\users\evoo\onedrive - estudiantes itcr\escritorio\estructuras de datos\proyecto1\include\linkedqueue.h
+	<stdexcept>
+	<iostream>
+	"Node.h"
+	"Queue.h"
+
+1663257302 c:\users\evoo\onedrive - estudiantes itcr\escritorio\estructuras de datos\proyecto1\include\queue.h
+
+1665857998 c:\users\evoo\onedrive - estudiantes itcr\escritorio\estructuras de datos\proyecto1\include\ventanilla.h
+	<string>
+
+1665855563 c:\users\evoo\onedrive - estudiantes itcr\escritorio\estructuras de datos\proyecto1\include\tiquete.h
+	<iostream>
+	<string>
+	<ctime>
+	<time.h>
+
+1665866146 c:\users\evoo\onedrive - estudiantes itcr\escritorio\estructuras de datos\proyecto1\include\lista_areas.h
+	"Area.h"
+	"LinkedList.h"
+
+1665866364 c:\users\evoo\onedrive - estudiantes itcr\escritorio\estructuras de datos\proyecto1\include\lista_servicios.h
+	"servicio.h"
+	"LinkedList.h"
+
+1665866146 c:\users\evoo\onedrive - estudiantes itcr\escritorio\estructuras de datos\proyecto1\include\servicio.h
+	<string>
+
+1665992955 source:c:\users\diazb\documents\ediis2022\pry\proyecto1\main.cpp
+	<iostream>
+	"Area.h"
+	<ctime>
+	<time.h>
+	"lista_Areas.h"
+	"lista_Servicios.h"
+	<stdio.h>
+	<stdlib.h>
+
+1665995555 c:\users\diazb\documents\ediis2022\pry\proyecto1\include\area.h
+	"LinkedList.h"
+	"LinkedQueue.h"
+	"ventanilla.h"
+	"tiquete.h"
+	"lista_Servicios.h"
+	<iostream>
+	<string>
+	<ctime>
+	<time.h>
+	<stdexcept>
+
+1665633120 c:\users\diazb\documents\ediis2022\pry\proyecto1\include\linkedlist.h
+	"List.h"
+	"Node.h"
+	<stdexcept>
+	<iostream>
+
+1665620289 c:\users\diazb\documents\ediis2022\pry\proyecto1\include\list.h
+
+1661356914 c:\users\diazb\documents\ediis2022\pry\proyecto1\include\node.h
+
+1665993848 c:\users\diazb\documents\ediis2022\pry\proyecto1\include\linkedqueue.h
+	<stdexcept>
+	<iostream>
+	"Node.h"
+	"Queue.h"
+
+1663257302 c:\users\diazb\documents\ediis2022\pry\proyecto1\include\queue.h
+
+1665995786 c:\users\diazb\documents\ediis2022\pry\proyecto1\include\ventanilla.h
+	<string>
+
+1665855563 c:\users\diazb\documents\ediis2022\pry\proyecto1\include\tiquete.h
+	<iostream>
+	<string>
+	<ctime>
+	<time.h>
+
+1665989327 c:\users\diazb\documents\ediis2022\pry\proyecto1\include\lista_servicios.h
+	"servicio.h"
+	"LinkedList.h"
+
+1665983575 c:\users\diazb\documents\ediis2022\pry\proyecto1\include\servicio.h
+	<string>
+
+1665995755 c:\users\diazb\documents\ediis2022\pry\proyecto1\include\lista_areas.h
+	"Area.h"
+	"LinkedList.h"
+
+1666132030 source:c:\users\diazb\documents\ediis2022\pry\p\proyecto1\main.cpp
+	<iostream>
+	"Area.h"
+	<ctime>
+	<time.h>
+	"lista_Areas.h"
+	"lista_Servicios.h"
+	<stdio.h>
+	<stdlib.h>
+
+1666131908 c:\users\diazb\documents\ediis2022\pry\p\proyecto1\include\area.h
+	"LinkedList.h"
+	"LinkedQueue.h"
+	"ventanilla.h"
+	"tiquete.h"
+	"lista_Servicios.h"
+	<iostream>
+	<string>
+	<ctime>
+	<time.h>
+	<stdexcept>
+
+1666110064 c:\users\diazb\documents\ediis2022\pry\p\proyecto1\include\linkedlist.h
+	"List.h"
+	"Node.h"
+	<stdexcept>
+	<iostream>
+
+1666110058 c:\users\diazb\documents\ediis2022\pry\p\proyecto1\include\list.h
+
+1666110053 c:\users\diazb\documents\ediis2022\pry\p\proyecto1\include\node.h
+
+1666110061 c:\users\diazb\documents\ediis2022\pry\p\proyecto1\include\linkedqueue.h
+	<stdexcept>
+	<iostream>
+	"Node.h"
+	"Queue.h"
+
+1666110049 c:\users\diazb\documents\ediis2022\pry\p\proyecto1\include\queue.h
+
+1666104773 c:\users\diazb\documents\ediis2022\pry\p\proyecto1\include\ventanilla.h
+	<string>
+
+1666103950 c:\users\diazb\documents\ediis2022\pry\p\proyecto1\include\tiquete.h
+	<iostream>
+	<string>
+	<ctime>
+	<time.h>
+
+1666109766 c:\users\diazb\documents\ediis2022\pry\p\proyecto1\include\lista_servicios.h
+	"servicio.h"
+	"LinkedList.h"
+
+1666103739 c:\users\diazb\documents\ediis2022\pry\p\proyecto1\include\servicio.h
+	<string>
+
+1666109762 c:\users\diazb\documents\ediis2022\pry\p\proyecto1\include\lista_areas.h
+	"Area.h"
+	"LinkedList.h"
+
