@@ -1,9 +1,9 @@
 ### Integrantes
 
-**Angelica Diaz Barrios**
-**Katerine Guzman Flores**
-**Rafael Vargas Bello**
-**Joseph David Santamaria Castro**
+**Angelica Diaz Barrios** -
+**Katerine Guzman Flores** -
+**Rafael Vargas Bello** -
+**Joseph David Santamaria Castro** - 
 **David Brenes Martínez**
 
 
