@@ -1,0 +1,320 @@
+Acción: 1
+Puntaje: 0
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 2Cr ZTn QEn KTn JTn JCr
+
+Cartas de reserva: 7Tn 8En QCr 2Dr 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 2
+Puntaje: 2
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn KTn 0   JCr
+
+Cartas de reserva: 7Tn 8En QCr 2Dr 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 2
+Puntaje: 2
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn KTn 0   JCr
+
+Cartas de reserva: 7Tn 8En QCr 2Dr 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 
+Puntaje: 3
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 7Tn 8En QCr 2Dr 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 2
+
+Puntaje: 3
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 8En QCr 2Dr 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Carta volteada del mazo: 7Tn
+Acción: 
+Puntaje: 3
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 8En QCr 2Dr 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 2
+
+Puntaje: 3
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: QCr 2Dr 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Carta volteada del mazo: 8En
+Acción: 
+Puntaje: 3
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: QCr 2Dr 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 2
+
+Puntaje: 3
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 2Dr 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Carta volteada del mazo: QCr
+Acción: 
+Puntaje: 3
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 2Dr 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 2
+
+Puntaje: 3
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Carta volteada del mazo: 2Dr
+Acción: 
+Puntaje: 3
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 2
+
+Puntaje: 3
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Carta volteada del mazo: 9Cr
+Acción: 
+Puntaje: 3
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 1
+
+Puntaje: 3
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Carta volteada del mazo: 5Cr
+Acción: 
+Puntaje: 5
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+0   0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 2
+
+Puntaje: 5
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+0   0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Carta volteada del mazo: ZEn
+Acción: 
+Puntaje: 5
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+0   0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 2
+
+Puntaje: 5
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+0   0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Carta volteada del mazo: 9Tn
+Acción: 
+Puntaje: 5
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+0   0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 1
+
+Puntaje: 5
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+0   0   ZTn QEn 0   0   JCr
+
+Cartas de reserva: 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Carta volteada del mazo: 3Dr
+Acción: 
+Puntaje: 7
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+0   0   0   QEn 0   0   JCr
+
+Cartas de reserva: 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 1
+
+Puntaje: 7
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+0   0   0   QEn 0   0   JCr
+
+Cartas de reserva: ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Carta volteada del mazo: 5En
+Acción: 4
+Puntaje: 9
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 0   4Dr
+0   0   0   QEn 0   0   JCr
+
+Cartas de reserva: ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
+Acción: 5
+Puntaje: 0
+6Tn
+7Cr 2En
+JEn 7Dr 3Tn
+ACr 8Cr 5Tn 9En
+4Tn 3En KEn JDr 3Cr
+ZDr 9Dr 2Tn AEn 8Tn 4Dr
+8Dr 2Cr ZTn QEn KTn JTn JCr
+
+Cartas de reserva: 7Tn 8En QCr 2Dr 9Cr 5Cr ZEn 9Tn 3Dr 5En ZCr ATn 6Cr 6Dr ADr QTn 6En 4En KDr QDr KCr 7En 4Cr 5Dr
+
