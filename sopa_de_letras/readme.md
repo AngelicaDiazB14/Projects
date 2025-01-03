@@ -1,4 +1,4 @@
-# **Project completed in the Programming Workshop course**  
+# **Project completed in the "Taller de Programación" course**  
 ### **Created by:** **Angélica Díaz** and **Hillary Malespín**  
 ### **Name:** **Word Search Game**
 
